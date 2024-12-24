@@ -2,7 +2,7 @@
 
 ## Course setup
 
-1. Join [Slack channel](https://xorio.slack.com/archives/C085WSHDPLK). Create an account on slack if needed, you can do it with your Google account
+1. Join [Slack channel](https://xorio.slack.com/archives/C085WSHDPLK). Create an account on Slack if needed. You can do it with your Google account
 2. At the beginning of each course, make sure the material is ready in [docs](.) and [assignments](../assignments)
 3. [assignments](../assignments) structure (usually this exists already. Make sure it's valid and change as needed):  
    A folder for each chapter, like `Chapter_1` with the following structure:
