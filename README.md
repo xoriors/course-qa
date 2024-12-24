@@ -6,7 +6,7 @@ That course is mostly theoretical, but we add practical examples after each chap
 > [!IMPORTANT]  
 > The main idea of this repo is to give you, at a minimum:
 > - A complete QA manual theoretical course based on `ISTQB Certified Tester Foundation Level, CTFL`
-> - Additional practical examples and tasks
+> - Additional practical examples and assignments
 > - Docs, logistics, a project, and GitHub issues to organize the course interactively
 > - All this Free and Open Source (FOSS)
 
