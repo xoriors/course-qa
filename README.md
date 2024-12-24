@@ -3,7 +3,9 @@
 This course is based on [ISTQB Certified Tester Foundation Level, CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/) v4.0.1 from 2024. You can access it at [ISTQB_CTFL_Syllabus_v4.0.1.pdf](docs/ISTQB_CTFL_Syllabus_v4.0.1.pdf).  
 That course is mostly theoretical, but we add practical examples after each chapter and weekly assignments.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
+> **WORK IN PROGRESS**
+> 
 > The main idea of this repo is to give you, at a minimum:
 > - A complete QA manual theoretical course based on `ISTQB Certified Tester Foundation Level, CTFL`
 > - Additional practical examples and assignments
