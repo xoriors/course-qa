@@ -33,7 +33,7 @@ That course is mostly theoretical, but we add practical examples after each chap
 3. Static Testing
 4. Test Analysis and Design
 5. Managing the Test Activities
-6. Test Tools – 20 minutes
+6. Test Tools
 
 ## Into the course
 
