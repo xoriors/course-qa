@@ -53,6 +53,6 @@ That course is mostly theoretical, but we add practical examples after each chap
 
 ### What it's **NOT**:
 
-- Exhaustive learning course with every day sessions with teachers
+- Exhaustive learning course with everyday sessions with teachers
 - Paid course
 - Learn at your own pace
