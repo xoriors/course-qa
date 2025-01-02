@@ -24,7 +24,8 @@ That course is mostly theoretical, but we add practical examples after each chap
   - Address any questions (this will happen also over the week via Slack or GitHub issues)
   - Discuss practical examples
   - Give a new assignment for last week's chapter
-- Everything will be video recorded and made available in this repo for anybody to use
+- Over the week students may ask any questions over the chat
+- Everything will be video recorded (except chat or email) and made available in this repo for anybody to use
 
 ### Chapters
 
