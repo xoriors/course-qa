@@ -5,8 +5,8 @@ This course is based on [ISTQB_CTFL_Syllabus_v4.0.1.pdf](docs/ISTQB_CTFL_Syllabu
 That course is mainly theoretical, but we add additionally:
 - Practical examples for each chapter
 - Weekly assignments
-- Learn the basics of QA automation
 - How to create test cases
+- Learn the basics of QA automation
 - Use ChatGPT (or other LLMs) to:
   - Generate test cases based on requirements and specs
   - Generate the automation code based on a test case. Generated code can be in Python, Typescript, Rust, or any other language, even script files like bash or .bat
