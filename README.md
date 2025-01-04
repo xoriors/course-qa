@@ -11,7 +11,7 @@ That course is mainly theoretical, but we add additionally:
   - Generate test cases based on requirements and specs
   - Generate the automation code based on a test case. Generated code can be in Python, Typescript, Rust, or any other language, even script files like bash or .bat
   - Give you some basic knowledge of Python, Typescript, and bash to understand the generated code and be able to make small changes to it
-  - Basic usage of git, GitHub, and GitHub Actions
+  - Basic usage of Git, GitHub, and GitHub Actions
   - Integrate running automated tests in the CI pipeline like GitHub Actions
 
 > [!IMPORTANT]
