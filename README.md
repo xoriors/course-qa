@@ -2,7 +2,7 @@
 
 This course is based on [ISTQB_CTFL_Syllabus_v4.0.1.pdf](docs/ISTQB_CTFL_Syllabus_v4.0.1.pdf) from 2024. See the official site [ISTQB Certified Tester Foundation Level, CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/).
 
-That course is mostly theoretical, but we add additionally:
+That course is mainly theoretical, but we add additionally:
 - Practical examples for each chapter
 - Weekly assignments
 - Learn the basics of QA automation
