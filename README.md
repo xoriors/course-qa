@@ -2,7 +2,17 @@
 
 This course is based on [ISTQB_CTFL_Syllabus_v4.0.1.pdf](docs/ISTQB_CTFL_Syllabus_v4.0.1.pdf) from 2024. See the official site [ISTQB Certified Tester Foundation Level, CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/).
 
-That course is mostly theoretical, but we add practical examples after each chapter and weekly assignments.
+That course is mostly theoretical, but we add additionally:
+- Practical examples for each chapter
+- Weekly assignments
+- Learn the basics of QA automation
+- How to create test cases
+- Use ChatGPT (or other LLMs) to:
+  - Generate test cases based on requirements and specs
+  - Generate the automation code based on a test case. Generated code can be in Python, Typescript, Rust, or any other language, even script files like bash or .bat
+  - Give you some basic knowledge of Python, Typescript, and bash to understand the generated code and be able to make small changes to it
+  - Basic usage of git, GitHub, and GitHub Actions
+  - Integrate running automated tests in the CI pipeline like GitHub Actions
 
 > [!IMPORTANT]
 > **WORK IN PROGRESS**
